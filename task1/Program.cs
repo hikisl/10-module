@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _10_module
+namespace task1
 {
-    class task1
+    class Program
     {
         static void Main(string[] args)
         {
